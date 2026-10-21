@@ -1,0 +1,13 @@
+{
+  "name": "pablo-yukutala-ai",
+  "version": "1.0.0",
+  "description": "Serveur IA de PABLO YUKUTALA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.77.0"
+  }
+}
